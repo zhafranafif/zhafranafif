@@ -14,4 +14,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https:
 </a>
 </p>
 
-<a href="https://app.daily.dev/zhafranafif"><img src="https://api.daily.dev/devcards/1a82d5e8055e4d8889bf8e2da45697ad.png?r=rny" width="400" alt="Zhafran Afif's Dev Card"/></a>
+<a href="https://app.daily.dev/zhafranafif"><img src="https://api.daily.dev/devcards/v2/mkHdtaThY.png?r=0oo&type=wide" width="652" alt="Zhafran Afif's Dev Card"/></a>
